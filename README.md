@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lmosquera93&label=Profile%20views&color=0e75b6&style=flat" alt="lmosquera93" /> </p>
 
-- 🌱 Actualmente estoy aprendiendo: **COBOL**
+- 🌱 Actualmente estoy aprendiendo: **JAVA**
 
 - 👨‍💻 Mis proyectos estan disponibles en: [https://github.com/lmosquera93?tab=repositories](https://github.com/lmosquera93?tab=repositories)
 
-- 💬 Consultame sobre: **C#, Angular, Typescript, NodeJS, MYSQL, ORACLE**
+- 💬 Consultame sobre: **C#, Angular, Typescript, NodeJS, SQL, ORACLE, Cobol**
 
 - 📫 Me podes contactar a: **mosqueralucho@gmail.com**
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/luciano-mosquera-514379148/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luciano-mosquera-514379148/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/luciano-mosquera-514379148/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luciano-mosquera-514379148/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
