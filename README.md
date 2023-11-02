@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lmosquera93&label=Profile%20views&color=0e75b6&style=flat" alt="lmosquera93" /> </p>
 
-- 🌱 Actualmente estoy aprendiendo: **JAVA**
-
 - 👨‍💻 Mis proyectos estan disponibles en: [https://github.com/lmosquera93?tab=repositories](https://github.com/lmosquera93?tab=repositories)
-
-- 💬 Consultame sobre: **C#, Angular, Typescript, NodeJS, SQL, ORACLE, Cobol**
 
 - 📫 Me podes contactar a: **mosqueralucho@gmail.com**
 
